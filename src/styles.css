@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App1 {
+  color: green;
+}
+.App2 {
+  width: 150px;
+  height: 150px;
+  background: rgb(175, 170, 170);
+  border: 5px solid #ff8000;
+}
